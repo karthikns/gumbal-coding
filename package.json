@@ -2,8 +2,9 @@
   "name": "gumbal-programming",
   "version": "1.0.0",
   "description": "A mob programming timer",
-  "main": "index.js",
+  "main": "src/server/server.js",
   "scripts": {
+    "start": "node src/server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/karthikns/gumbal-programming/issues"
   },
-  "homepage": "https://github.com/karthikns/gumbal-programming#readme"
+  "homepage": "https://github.com/karthikns/gumbal-programming#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
