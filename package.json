@@ -1,7 +1,7 @@
 {
-  "name": "gumbal-programming",
+  "name": "gumbal-coding",
   "version": "1.0.0",
-  "description": "A mob programming timer",
+  "description": "A mob coding timer",
   "main": "src/server/server.js",
   "scripts": {
     "start": "node src/server/server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karthikns/gumbal-programming.git"
+    "url": "git+https://github.com/karthikns/gumbal-coding.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/karthikns/gumbal-programming/issues"
+    "url": "https://github.com/karthikns/gumbal-coding/issues"
   },
-  "homepage": "https://github.com/karthikns/gumbal-programming#readme",
+  "homepage": "https://github.com/karthikns/gumbal-coding#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
